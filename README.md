@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Task manager application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is simple react application, which I created with React course.
 
-## Available Scripts
+## To run application
 
 In the project directory, you can run:
 
